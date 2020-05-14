@@ -1,0 +1,13 @@
+[
+    {
+        "custid": "id",
+        "fname": "first name",
+        "lname": "last name",
+        "interests": "interests",
+        "gender": "m/f/o",
+        "active-since": "timestamp",
+        "activity-status": "activity level"
+    },
+
+{ "custid": "id", "fname": "first name", "lname": "last name", "interests": "interests","gender": "m/f/o", "active-since": "timestamp", "activity-status": "activity level" }
+]
